@@ -1,0 +1,27 @@
+#folder
+target/
+node_modules/
+/test/*
+web/src/test/resources/
+*/tmp/
+#fixed file
+.class
+.exe
+*/*.log
+*/*.*.log
+.prefs
+.project
+.classpath
+.metadata
+.settings
+.DS_Store
+Thumbs.db
+*.iml
+*.ipr
+*.iws
+*.tar.gz
+.idea
+.idea/*.xml
+dist/
+*/*.iml
+pom.xml.versionsBackup
